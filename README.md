@@ -1,7 +1,7 @@
 
 <!--ETH Image -->
 <div>
-  <img align="right" height="500" src="eth_image.gif"  />
+  <img align="center" height="500" src="eth_image.gif"  />
 </div>
 
 <!-- Headline -->
