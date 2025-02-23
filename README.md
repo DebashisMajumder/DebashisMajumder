@@ -1,13 +1,12 @@
-
 <!-- Headline -->
+
 <div  align="left">
   <h1>Hi, I'm Debashis 🧑🏻‍💻</h1>
 </div>
+
 <!-- Paragraph -->
 
 <p>Engineering student (AI) | Passionate about blockchain & open-source</p>
-
-
 
 <!-- Language & Tools -->
 
@@ -15,10 +14,6 @@
 ---
 
 <h3 align="left">💻 Tech that I use daily :</h3>
-
-
-<!-- Language & Tools -->
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -43,6 +38,8 @@
   <img align="right" width="300" height="300" src="eth_image.gif"  />
 
 ---
+
+<!--Stats -->
 
 #### Github Stats 📊
 
