@@ -16,9 +16,6 @@
 
 <h3 align="left">💻 Tech that I use daily :</h3>
 
-<!--ETH Image -->
-
-  <img align="right" width="300" height="300" src="eth_image.gif"  />
 
 <!-- Language & Tools -->
 
@@ -40,6 +37,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
+
+<!--ETH Image -->
+
+  <img align="right" width="300" height="300" src="eth_image.gif"  />
 
 ---
 
