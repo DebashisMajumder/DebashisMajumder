@@ -1,3 +1,9 @@
+
+<!--ETH Image -->
+<div>
+  <img align="right" height="500" src="eth_image.gif"  />
+</div>
+
 <!-- Headline -->
 
 <h1>Hi, I'm Debashis 🧑🏻‍💻</h1>
@@ -30,10 +36,6 @@
 
 ###
 
-<!--ETH Image -->
-<div>
-  <img align="right" height="500" src="eth_image.gif"  />
-</div>
 <!-- Language & Tools -->
 
 ###
