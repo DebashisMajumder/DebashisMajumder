@@ -1,12 +1,11 @@
 
 <!--ETH Image -->
-<div>
-  <img align="center" height="500" src="eth_image.gif"  />
-</div>
+
+  <img align="center" height="400" src="eth_image.gif"  />
 
 <!-- Headline -->
 
-<h1>Hi, I'm Debashis 🧑🏻‍💻</h1>
+<h1 align="center">Hi, I'm Debashis 🧑🏻‍💻</h1>
 
 <!-- Paragraph -->
 
