@@ -6,7 +6,7 @@
 
 <!-- Paragraph -->
 
-<p>Engineering student (AI) | Passionate about blockchain & open-source</p>
+<p>Engineering student (AI) | Passionate about Blockchain & oOpen-Source</p>
 
 <!-- Language & Tools -->
 
