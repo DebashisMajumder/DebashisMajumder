@@ -37,7 +37,7 @@
 
   <img align="right" width="300" height="300" src="eth_image.gif"  />
 
----
+
 
 <!--Stats -->
 
