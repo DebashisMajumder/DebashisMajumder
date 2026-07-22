@@ -21,7 +21,7 @@ BTech AI student at AGEMC, building at the intersection of machine learning, ope
 
 ```python
 focus   = ["AI/ML", "Open-Source", "Web3"]
-stack   = ["Python", "C++", "FastAPI", "LangChain", "Docker"]
+stack   = ["Python", "C++", "Docker"]
 os      = "Linux"
 ```
 
