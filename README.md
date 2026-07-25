@@ -1,6 +1,4 @@
-```
-debashis@arch ~ $ whoami
-```
+
 # Debashis Majumder
 
 BTech AI · AGEMC · India
