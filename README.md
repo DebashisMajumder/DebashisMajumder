@@ -33,7 +33,7 @@ I care about writing clean code, understanding systems deeply, and shipping thin
 <div align="center">
 
 <!-- <img height="155em" src="https://github-readme-stats.vercel.app/api?username=DebashisMajumder&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&include_all_commits=true&count_private=true&hide_title=false&cache_seconds=1800"/> -->
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebashisMajumder&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&cache_seconds=1800"/>
+<!-- <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebashisMajumder&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&cache_seconds=1800"/>
 
 </div>
 
@@ -41,7 +41,7 @@ I care about writing clean code, understanding systems deeply, and shipping thin
 
 <img src="https://streak-stats.demolab.com?user=DebashisMajumder&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff"/>
 
-</div>
+</div> -->
 
 ---
 
